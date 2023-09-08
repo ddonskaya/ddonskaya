@@ -7,7 +7,7 @@
 
 <br>  
 
-[![DariaCrypto's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DariaCrypto)](https://github.com/KnlnKS/leetcode-stats)
+[![daria's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ddonskaya)](https://github.com/KnlnKS/leetcode-stats)
 
 <br> 
 
